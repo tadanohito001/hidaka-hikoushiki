@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://tadanohito001.github.io/hidaka-hikoushiki/sitemap.xml
